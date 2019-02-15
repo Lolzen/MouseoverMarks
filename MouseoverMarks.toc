@@ -1,0 +1,5 @@
+## Interface: 80100
+## Author: Lolzen
+## Title: MouseoverMarks
+## Version: 1.0
+## Notes: Markierungs keybinds für mouseover

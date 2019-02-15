@@ -1,0 +1,30 @@
+<Bindings>
+	<!--  header="RAID_TARGET" -->
+	<Binding name="Totenkopf (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 8);
+	</Binding>
+		<Binding name="Kreuz (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 7);
+	</Binding>
+		<Binding name="Quadrat (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 6);
+	</Binding>
+		<Binding name="Mond (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 5);
+	</Binding>
+		<Binding name="Dreieck (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 4);
+	</Binding>
+		<Binding name="Diamant (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 3);
+	</Binding>
+		<Binding name="Kreis (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 2);
+	</Binding>
+	<Binding name="Stern (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTargetIcon("mouseover", 1);
+	</Binding>
+	<Binding name="Löschen (Mouseover)" category="BINDING_HEADER_RAID_TARGET">
+		SetRaidTarget("mouseover", 0);
+	</Binding>
+</Bindings>
